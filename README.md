@@ -1,3 +1,3 @@
 # aluraMidi
 
-Meu resultado do progeto alura midi desenvolvido ao longo do curso de JavaScript para paginas web.
+Meu resultado do projeto alura midi desenvolvido ao longo do curso de JavaScript para paginas web da formação de iniciante em programação da alura.
